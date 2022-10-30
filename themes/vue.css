@@ -615,7 +615,7 @@ body {
   white-space: nowrap;
 }
 .sidebar ul li a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .sidebar ul li ul {
   padding: 0;
@@ -643,7 +643,7 @@ body {
 .markdown-section a {
   color: #42b983;
   color: var(--theme-color, #42b983);
-  font-weight: 600;
+  font-weight: normal;
 }
 .markdown-section h1 {
   font-size: 2rem;
