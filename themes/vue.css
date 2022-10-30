@@ -644,6 +644,7 @@ body {
   color: #42b983;
   color: var(--theme-color, #42b983);
   font-weight: normal;
+  text-decoration: none;
 }
 .markdown-section h1 {
   font-size: 2rem;
