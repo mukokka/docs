@@ -72,7 +72,7 @@
     .page_toc {
       position: relative;
       left: 0;
-      top: -20px;
+      top: 0;
       padding: 10px 0;
       border: none;
       border-bottom: 1px solid #ddd;
@@ -87,7 +87,7 @@
     }
     .page_toc p.title {
       font-weight: 300;
-      font-size: 1.8em;
+      font-size: normal;
     }
     .content {
       display: block;
