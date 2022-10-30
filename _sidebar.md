@@ -7,11 +7,11 @@
     * [不能承受的生命之轻](2022/bunengchengshou)
   * C
     * [从零开始的女性主义](2022/congling)
-    * [春雪](chunxue)
+    * [春雪](2022/chunxue)
   * F
     * [仿生人会梦见电子羊吗](2022/fangshengren)
   * H
-    * [黑箱：日本之耻](2021/heixiang)
+    * [黑箱](2021/heixiang)
   * J
     * [绝叫](2022/juejiao)
     * [橘子不是唯一的水果](2022/juzi)
