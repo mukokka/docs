@@ -68,7 +68,7 @@
     line-height: 1.6em;
   }
   
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 600px) {
     .page_toc {
       position: relative;
       left: 0;
@@ -83,7 +83,7 @@
     }
     .nav {
       margin: 0 auto;
-      width: 800px;
+      width: 500px;
     }
     .page_toc p.title {
       font-weight: 300;
