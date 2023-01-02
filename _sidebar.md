@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [首页]（/）
+* [首页](/)
 * [书单](read/read)
 * [看板](watch/watch)
 * 书架
