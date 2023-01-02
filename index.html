@@ -19,6 +19,11 @@
       name: '',
       repo: '',
       loadSidebar:true,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md',
+      },
+      ubMaxLevel: 3,
+      sidebarDisplayLevel: 1,
       auto2top: true,
       search: { //搜索
           maxAge: 86400000,
@@ -50,5 +55,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <!--字数统计--> 
   <script src="//unpkg.com/docsify-count/dist/countable.min.js"></script>
+  <!--折叠侧边栏--> 
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
 </body>
 </html>
