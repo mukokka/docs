@@ -1,7 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [书单](/)
-* 
+* [首页]（/）
+* [书单](read/read)
+* [看板](watch/watch)
 * 书架
   * B
     * [不能承受的生命之轻](2022/bunengchengshou)
