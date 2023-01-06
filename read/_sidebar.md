@@ -2,6 +2,8 @@
 
 * [书单](read/list)
 * 归档
+  * 2023
+    * [占星术杀人魔法](read/2023/zhanxingshu)
   * 2022
     - [疾风号](read/2022/jifenghao)
     - [笑忘录](read/2022/xiaowanglu)

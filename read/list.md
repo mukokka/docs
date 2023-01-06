@@ -1,5 +1,9 @@
 # 书单 <!-- {docsify-ignore-all} -->
 
+## 2023
+
+- [x] [占星术杀人魔法](read/2023/zhanxingshu)
+
 ## 2022
 
 - [x] [疾风号](read/2022/jifenghao)
