@@ -3,7 +3,7 @@
 * [书单](read/list)
 * 归档
   * 2023
-    * [reading](read/2023/kenengxing)
+  <!--   * [reading](read/2023/kenengxing) -->
     * [占星术杀人魔法](read/2023/zhanxingshu)
   * 2022
     - [疾风号](read/2022/jifenghao)

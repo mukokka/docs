@@ -4,6 +4,9 @@
 
 - [docsify中文文档](https://docsify.js.org/#/zh-cn/)
 - [FixIt主题短代码使用](https://fixit.lruihao.cn/zh-cn/tags/shortcodes/)
+- 本地预览
+  - dosify `docsify serve docs`
+  - hugo生产环境 `hugo server -e production`
 
 ### 工具
 
