@@ -3,8 +3,9 @@
 * [书单](read/list)
 * 归档
   * 2023
-  <!--   * [reading](read/2023/kenengxing) -->
-    * [占星术杀人魔法](read/2023/zhanxingshu)
+    * [reading](read/2023/02可能性的艺术)
+    * [失明症漫记](read/2023/03失明症漫记.md)
+    * [占星术杀人魔法](read/2023/01占星术杀人魔法)
   * 2022
     - [疾风号](read/2022/jifenghao)
     - [笑忘录](read/2022/xiaowanglu)
