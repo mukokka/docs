@@ -5,7 +5,8 @@
 ## 在看
 
 - [犯罪心理](https://www.aikanbot.com/play/466336)
-- 野生豆
+- PEAK TIME
+  - [jtbc直播](http://www.92flvtv.com/korea-tv/jtbc4.php)
 
 ## 待看
 
