@@ -1,12 +1,15 @@
 # 看板 <!-- {docsify-ignore-all} -->
 
-?> 📅**更新日期**：2023-02-11
+?> 📅**更新日期**：2023-02-15
 
 ## 在看
 
 - [犯罪心理](https://www.aikanbot.com/play/466336)
 - PEAK TIME
-  - [jtbc直播](http://www.92flvtv.com/korea-tv/jtbc4.php)
+  - jtbc直播网址
+    [1](http://www.92flvtv.com/korea-tv/jtbc4.php)
+    [2](https://m.twitch.tv/atbo_hwan)
+    [3](https://aqstream.com/jtbc/JTBC-Stream-3)
 
 ## 待看
 
