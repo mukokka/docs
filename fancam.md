@@ -1,4 +1,4 @@
-其实我追kpop看直拍还蛮少的（看舞台和换装混剪比较多）……但是刷到喜欢的就会反复看，~~哪怕地球灭亡图像存储功能消失也要把视频转为数字码手抄下来留待未来生物解读。~~今天听到一首歌又想翻出直拍看的时候决定收藏一下我看过五遍以上的直拍，毕竟对我来说完整看完一场已经难得，看过五遍以上的必然要被载入剋泡史册（我撰写.ver）（虽然我什么客观标准，但主观上还是很严格的
+其实我追kpop看直拍还蛮少的（看舞台和换装混剪比较多）……但是刷到喜欢的就会反复看，~~哪怕地球灭亡图像存储功能消失也要把视频转为数字码手抄下来留待未来生物解读。~~今天听到一首歌又想翻出直拍看的时候决定收藏一下我看过五遍以上的直拍，毕竟对我来说完整看完一场已经难得，看过五遍以上的必然要被载入剋泡史册（我撰写.ver）（虽然没什么客观标准，但主观上还是很严格的
 
 ### 404相关
 
@@ -14,12 +14,12 @@
 
 ### 202相关
 
-- [220430 팔레트뮤직 김재환 '꽃인가요' (4k)](https://www.youtube.com/watch?v=jVCi-q2wpOE) 最后跳起来的时候我都要哭了，熬夜赶due的某天看了一晚上TT
+- [220430 팔레트뮤직 김재환 '꽃인가요' (4k)](https://www.youtube.com/watch?v=jVCi-q2wpOE) 最后跳起来的时候我都要哭了，熬夜赶due的某天看了一晚上ㅠㅠ
 
 - [220916 리슨어게인 김재환 'OASIS' (4K)](https://www.youtube.com/watch?v=3JAjdZ7pAdY) 每次看几乎都是为了哒哒哒那个部分的手指编舞（我命名的
-
+<!--
 - [[4K] 221010 [SOMEDAY PLEROMA] OASIS - 김재환(KIM JAE HWAN)](https://www.youtube.com/watch?v=b0MqJkUpe30) 同上
-
+-->
 - [그 시절 우리는 - 김재환 [뮤직뱅크/Music Bank] | KBS 220923 방송](https://www.youtube.com/watch?v=bbLp3diipUw) 这场最早我是在b站刷到的，b站标题是：Live舞台前十秒，耳返接收器被人拉掉了怎么办 ！？（也不是直拍，叛逆+2
 
 - [[MPD직캠] 뉴이스트 민현 직캠 4K 'INSIDE OUT' (NU'EST MINHYUN FanCam) | @MCOUNTDOWN_2021.4.29](https://www.youtube.com/watch?v=60oU7HzezX0) 这是横板腹肌
@@ -36,14 +36,14 @@
 
 ### 野生豆
 
-- [[예능연구소 4K] 야생돌 김기중 직캠 'ANSWER' (WILD IDOL FanCam) @Show!MusicCore 211211](https://www.youtube.com/watch?v=jMs9dUPKH) 可能是我已经戴上了养成滤镜...虽然有些脖子前倾但기중씨 자란다...
+- [[예능연구소 4K] 야생돌 김기중 직캠 'ANSWER' (WILD IDOL FanCam) @Show!MusicCore 211211](https://www.youtube.com/watch?v=jMs9dUPKH) 可能是我已经戴上了养成滤镜...虽然有些脖子前倾但기중씨 잘하다...
 
 ### 乐队
 
 - [[4K] 220515 원위(ONEWE) - TOMBOY+ELEVEN+Next Level+Lovesick Girls / O! NEW E! volution II ENCORE 용훈직캠](https://www.youtube.com/watch?v=-GITOEjq9bc) LIVE比《柳熙烈的写生簿》里的放送版更有感染力，2：40开始的两嗓子至今仍是我最喜欢的部分
-
+<!--
 - [190804 원위 (onewe)용훈 - 前前前世(너의이름ost 원곡RADWIMPS)직캠](https://www.youtube.com/watch?v=r1UN08gFeyA)
-
+-->
 - [190706 엔플라잉(N.Flying) 이승협(Seunghyub) - 불놀이 (Flowerwork) 직캠 / 여의도 버스킹](https://www.youtube.com/watch?v=NPrXjmH53Ig) 拿着那种工地喇叭的主唱
 
 P.S. 天呐，整理起来好累，因为每添加一个我就会点开花三四分钟再看一遍……两个多小时放了以上这些，之后想到了再慢慢加吧
