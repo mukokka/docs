@@ -16,10 +16,8 @@
 
 - [220430 팔레트뮤직 김재환 '꽃인가요' (4k)](https://www.youtube.com/watch?v=jVCi-q2wpOE) 最后跳起来的时候我都要哭了，熬夜赶due的某天看了一晚上ㅠㅠ
 
-- [220916 리슨어게인 김재환 'OASIS' (4K)](https://www.youtube.com/watch?v=3JAjdZ7pAdY) 每次看几乎都是为了哒哒哒那个部分的手指编舞（我命名的
-<!--
-- [[4K] 221010 [SOMEDAY PLEROMA] OASIS - 김재환(KIM JAE HWAN)](https://www.youtube.com/watch?v=b0MqJkUpe30) 同上
--->
+- [220916 리슨어게인 김재환 'OASIS' (4K)](https://www.youtube.com/watch?v=3JAjdZ7pAdY) 每次看几乎都是为了哒哒哒那个部分的手指编舞（?
+
 - [그 시절 우리는 - 김재환 [뮤직뱅크/Music Bank] | KBS 220923 방송](https://www.youtube.com/watch?v=bbLp3diipUw) 这场最早我是在b站刷到的，b站标题是：Live舞台前十秒，耳返接收器被人拉掉了怎么办 ！？（也不是直拍，叛逆+2
 
 - [[MPD직캠] 뉴이스트 민현 직캠 4K 'INSIDE OUT' (NU'EST MINHYUN FanCam) | @MCOUNTDOWN_2021.4.29](https://www.youtube.com/watch?v=60oU7HzezX0) 这是横板腹肌
