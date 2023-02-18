@@ -34,7 +34,7 @@
 
 ### 野生豆
 
-- [[예능연구소 4K] 야생돌 김기중 직캠 'ANSWER' (WILD IDOL FanCam) @Show!MusicCore 211211](https://www.youtube.com/watch?v=jMs9dUPKH) 可能是我已经戴上了养成滤镜...虽然有些脖子前倾但기중씨 잘하다...
+- [[예능연구소 4K] 야생돌 김기중 직캠 'ANSWER' (WILD IDOL FanCam) @Show!MusicCore 211211](https://www.youtube.com/watch?v=jMs9dUPKH) 可能是我已经戴上了养成滤镜...虽然有些脖子前倾但기중씨 잘한다...
 
 ### 乐队
 
