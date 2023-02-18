@@ -39,9 +39,7 @@
 ### 乐队
 
 - [[4K] 220515 원위(ONEWE) - TOMBOY+ELEVEN+Next Level+Lovesick Girls / O! NEW E! volution II ENCORE 용훈직캠](https://www.youtube.com/watch?v=-GITOEjq9bc) LIVE比《柳熙烈的写生簿》里的放送版更有感染力，2：40开始的两嗓子至今仍是我最喜欢的部分
-<!--
-- [190804 원위 (onewe)용훈 - 前前前世(너의이름ost 원곡RADWIMPS)직캠](https://www.youtube.com/watch?v=r1UN08gFeyA)
--->
-- [190706 엔플라잉(N.Flying) 이승협(Seunghyub) - 불놀이 (Flowerwork) 직캠 / 여의도 버스킹](https://www.youtube.com/watch?v=NPrXjmH53Ig) 拿着那种工地喇叭的主唱
+
+- [190706 엔플라잉(N.Flying) 이승협(Seunghyub) - 불놀이 (Flowerwork) 직캠 / 여의도 버스킹](https://www.youtube.com/watch?v=NPrXjmH53Ig) 拿着工地喇叭的主唱
 
 P.S. 天呐，整理起来好累，因为每添加一个我就会点开花三四分钟再看一遍……两个多小时放了以上这些，之后想到了再慢慢加吧
