@@ -4,7 +4,7 @@
 
 - [[페이스캠4K] 이펙스 백승 '사랑歌' (EPEX BAEKSEUNG 'Hymn to Love' FaceCam) @SBS Inkigayo 221113](https://www.youtube.com/watch?v=Vz9vrhE0P18) 从来没有见过这么爱吐舌头的人，加上非常怪异的撒浪歌，我真的为这个直拍容忍了很多
 
-- [[221125] 에버라인 백승 첫사랑의 법칙 (태권도복 ver) 직캠](https://www.youtube.com/watch?v=G9un8OzX49A&list) 急救一下耳朵，BTW初恋法则的[练习室](https://www.youtube.com/watch?v=jMs9dUPKH_s)也值得一看
+- [[221125] 에버라인 백승 첫사랑의 법칙 (태권도복 ver) 직캠](https://www.youtube.com/watch?v=G9un8OzX49A&list) 急救一下耳朵，BTW初恋法则的[练习室](https://www.youtube.com/watch?v=Uz-_r4TT730)也值得一看
 
 - [[4K] 220522 Lone Wolf (론울프) 금동현 FOCUS](https://www.youtube.com/watch?v=0zgrTPsBGrA&list=WL&index=4) 但是这首歌有一个诡异的气泡音，目前还可以忍受
 
@@ -20,7 +20,7 @@
 
 - [그 시절 우리는 - 김재환 [뮤직뱅크/Music Bank] | KBS 220923 방송](https://www.youtube.com/watch?v=bbLp3diipUw) 这场最早我是在b站刷到的，b站标题是：Live舞台前十秒，耳返接收器被人拉掉了怎么办 ！？（也不是直拍，叛逆+2
 
-- [[MPD직캠] 뉴이스트 민현 직캠 4K 'INSIDE OUT' (NU'EST MINHYUN FanCam) | @MCOUNTDOWN_2021.4.29](https://www.youtube.com/watch?v=60oU7HzezX0) 这是横板腹肌
+- [[입덕직캠] 뉴이스트 민현 직캠 4K 'INSIDE OUT' (NU'EST MINHYUN FanCam) | @MCOUNTDOWN_2021.4.29](https://www.youtube.com/watch?v=EK74B568q2Y) 这是横板腹肌
 
 - [[MPD직캠] 뉴이스트 민현 직캠 4K 'INSIDE OUT' (NU'EST MINHYUN FanCam) | @MCOUNTDOWN_2021.4.29](https://www.youtube.com/watch?v=60oU7HzezX0&t) 这是竖版腹肌，竖版还能看清那个踩大腿的编舞，嘶——
 
