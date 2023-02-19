@@ -36,6 +36,11 @@
 
 - [[예능연구소 4K] 야생돌 김기중 직캠 'ANSWER' (WILD IDOL FanCam) @Show!MusicCore 211211](https://www.youtube.com/watch?v=jMs9dUPKH_s) 可能是我已经戴上了养成滤镜...虽然有些脖子前倾但기중씨 잘한다...
 
+### sing again
+
+- [[ENG] No.30 - Chitty Chitty Bang Bang (singagain) Lyric Video / 30호 영어 가사](https://www.youtube.com/watch?v=i2NWVnjrvt4)
+
+
 ### 乐队
 
 - [[4K] 220515 원위(ONEWE) - TOMBOY+ELEVEN+Next Level+Lovesick Girls / O! NEW E! volution II ENCORE 용훈직캠](https://www.youtube.com/watch?v=-GITOEjq9bc) LIVE比《柳熙烈的写生簿》里的放送版更有感染力，2：40开始的两嗓子至今仍是我最喜欢的部分
