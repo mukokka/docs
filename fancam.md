@@ -6,11 +6,9 @@
 
 - [[221125] 에버라인 백승 첫사랑의 법칙 (태권도복 ver) 직캠](https://www.youtube.com/watch?v=G9un8OzX49A&list) 急救一下耳朵，BTW初恋法则的[练习室](https://www.youtube.com/watch?v=Uz-_r4TT730)也值得一看
 
-- [[4K] 220522 Lone Wolf (론울프) 금동현 FOCUS](https://www.youtube.com/watch?v=0zgrTPsBGrA&list=WL&index=4) 但是这首歌有一个诡异的气泡音，目前还可以忍受
+- [[4K] 220522 Lone Wolf (론울프) 금동현 FOCUS](https://www.youtube.com/watch?v=0zgrTPsBGrA&list=WL&index=4) 但是这首歌有一个诡异的气泡音
 
 - [220723 지구별여행자(Traveller) 이펙스 금동현 focus / EPEX 팬미팅 - 마이 제니스 in 서울 / KEUM face cam](https://www.youtube.com/watch?v=U9s37s0NVYo) 非常好听的一首，但是好像没几场舞台，只有演唱会饭拍
-
-- [[릴레이댄스] 김우석(KIM WOOSEOK) - 적월 (赤月) (Red Moon) (4K)](https://www.youtube.com/watch?v=aHXEvn6e2fE) 好吧这个不是直拍是接力，但谁规定直拍收藏夹只能放直拍了？（叛逆
 
 ### 202相关
 
@@ -18,7 +16,7 @@
 
 - [220916 리슨어게인 김재환 'OASIS' (4K)](https://www.youtube.com/watch?v=3JAjdZ7pAdY) 每次看几乎都是为了哒哒哒那个部分的手指编舞（?
 
-- [그 시절 우리는 - 김재환 [뮤직뱅크/Music Bank] | KBS 220923 방송](https://www.youtube.com/watch?v=bbLp3diipUw) 这场最早我是在b站刷到的，b站标题是：Live舞台前十秒，耳返接收器被人拉掉了怎么办 ！？（也不是直拍，叛逆+2
+- [韩网热议金在奂Chandelier五段高音 听完好解压！](https://www.bilibili.com/video/BV1cJ411k7MA/) 听到这首歌的现场被我写入遗愿清单
 
 - [[입덕직캠] 뉴이스트 민현 직캠 4K 'INSIDE OUT' (NU'EST MINHYUN FanCam) | @MCOUNTDOWN_2021.4.29](https://www.youtube.com/watch?v=EK74B568q2Y) 这是横板腹肌
 
@@ -40,6 +38,9 @@
 
 - [[ENG] No.30 - Chitty Chitty Bang Bang (singagain) Lyric Video / 30호 영어 가사](https://www.youtube.com/watch?v=i2NWVnjrvt4)
 
+### 二代
+
+- [[페이스캠4K] 투피엠 준호 '해야 해' (2PM JUNHO 'Make it' FaceCam)│@SBS Inkigayo_2021.07.11.](https://www.youtube.com/watch?v=jreV94kjTbs) 不用多说了这可是2021男爱豆直拍第一诶……
 
 ### 乐队
 
@@ -47,4 +48,4 @@
 
 - [190706 엔플라잉(N.Flying) 이승협(Seunghyub) - 불놀이 (Flowerwork) 직캠 / 여의도 버스킹](https://www.youtube.com/watch?v=NPrXjmH53Ig) 拿着工地喇叭的主唱
 
-P.S. 天呐，整理起来好累，因为每添加一个我就会点开花三四分钟再看一遍……两个多小时放了以上这些，之后想到了再慢慢加吧
+P.S. 天呐，整理起来好累，因为每添加一个我就会点开花三四分钟再看一遍……之后想到了再慢慢加吧
