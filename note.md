@@ -2,11 +2,15 @@
 
 ### 网站搭建
 
-- [docsify中文文档](https://docsify.js.org/#/zh-cn/)
-- [FixIt主题短代码使用](https://fixit.lruihao.cn/zh-cn/tags/shortcodes/)
-- 本地预览
-  - dosify `docsify serve docs`
-  - hugo生产环境 `hugo server -e production`
+- docsify
+  - [docsify中文文档](https://docsify.js.org/#/zh-cn/)
+  - 本地预览`docsify serve docs`
+  - 忽略副标题
+    - 忽略特定页面上的所有标题，在页面的第一个标题上使用`<!-- {docsify-ignore-all} -->`
+    - 忽略特定的标题，给它添加 `<!-- {docsify-ignore} -->`
+- hugo
+  - [FixIt主题短代码使用](https://fixit.lruihao.cn/zh-cn/tags/shortcodes/)
+  - 生产环境预览 `hugo server -e production`
 
 ### 工具
 
@@ -17,5 +21,4 @@
 ### 网址
 
 - [不明白播客](https://www.bumingbai.net/)
-- [小猴子](https://www.shenlejiang.xyz/index.php/documentation/gutenberg-editor/)
 - [SMS@MAN](https://sms-man.com/cn)
