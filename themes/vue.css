@@ -12,7 +12,7 @@ body:not(.ready) {
 }
 body:not(.ready) [data-cloak],
 body:not(.ready) .app-nav,
-body:not(.ready) > nav {
+body:not(.ready)> nav {
   display: none;
 }
 div#app {
@@ -104,7 +104,7 @@ li input[type='checkbox'] {
 .app-nav p {
   margin: 0;
 }
-.app-nav > a {
+.app-nav> a {
   margin: 0 1rem;
   padding: 5px 0;
 }
@@ -224,17 +224,17 @@ main.hidden {
   width: 300px;
   z-index: 20;
 }
-.sidebar > h1 {
+.sidebar> h1 {
   margin: 0 auto 1rem;
   font-size: 1.5rem;
   font-weight: 300;
   text-align: center;
 }
-.sidebar > h1 a {
+.sidebar> h1 a {
   color: inherit;
   text-decoration: none;
 }
-.sidebar > h1 .app-nav {
+.sidebar> h1 .app-nav {
   display: block;
   position: static;
 }
@@ -249,7 +249,7 @@ main.hidden {
   margin: 0 0 0 15px;
   padding: 0;
 }
-.sidebar li > p {
+.sidebar li> p {
   font-weight: 700;
   margin: 0;
 }
@@ -322,11 +322,11 @@ body.sticky .sidebar-toggle {
   padding: 30px 20px 40px 20px;
   position: relative;
 }
-.markdown-section > * {
+.markdown-section> * {
   box-sizing: border-box;
   font-size: inherit;
 }
-.markdown-section > :first-child {
+.markdown-section> :first-child {
   margin-top: 0 !important;
 }
 .markdown-section hr {
@@ -399,7 +399,7 @@ body.sticky .sidebar-toggle {
   border-radius: 5px;
   padding: 1rem;
 }
-.markdown-section ul.task-list > li {
+.markdown-section ul.task-list> li {
   list-style-type: none;
 }
 body.close .sidebar {
@@ -556,7 +556,7 @@ section.cover ul {
   max-width: 500px;
   padding: 0;
 }
-section.cover .cover-main > p:last-child a {
+section.cover .cover-main> p:last-child a {
   border-color: #42b983;
   border-color: var(--theme-color, #42b983);
   border-radius: 2rem;
@@ -573,24 +573,24 @@ section.cover .cover-main > p:last-child a {
   text-decoration: none;
   transition: all 0.15s ease;
 }
-section.cover .cover-main > p:last-child a:last-child {
+section.cover .cover-main> p:last-child a:last-child {
   background-color: #42b983;
   background-color: var(--theme-color, #42b983);
   color: #fff;
 }
-section.cover .cover-main > p:last-child a:last-child:hover {
+section.cover .cover-main> p:last-child a:last-child:hover {
   color: inherit;
   opacity: 0.8;
 }
-section.cover .cover-main > p:last-child a:hover {
+section.cover .cover-main> p:last-child a:hover {
   color: inherit;
 }
-section.cover blockquote > p > a {
+section.cover blockquote> p> a {
   border-bottom: 2px solid #42b983;
   border-bottom: 2px solid var(--theme-color, #42b983);
   transition: color 0.3s;
 }
-section.cover blockquote > p > a:hover {
+section.cover blockquote> p> a:hover {
   color: #42b983;
   color: var(--theme-color, #42b983);
 }
@@ -620,7 +620,7 @@ body {
 .sidebar ul li ul {
   padding: 0;
 }
-.sidebar ul li.active > a {
+.sidebar ul li.active> a {
   border-right: 2px solid;
   color: #42b983;
   color: var(--theme-color, #42b983);
@@ -717,12 +717,12 @@ body {
   margin: 1.2em 0;
   position: relative;
 }
-.markdown-section pre > code,
+.markdown-section pre> code,
 .markdown-section output {
   border-radius: 2px;
   display: block;
 }
-.markdown-section pre > code,
+.markdown-section pre> code,
 .markdown-section output::after {
   -moz-osx-font-smoothing: initial;
   -webkit-font-smoothing: initial;
@@ -734,7 +734,7 @@ body {
   padding: 3px 5px;
   white-space: pre-wrap;
 }
-.markdown-section > :not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) code {
+.markdown-section> :not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) code {
   font-size: 0.8rem;
 }
 .markdown-section pre {
@@ -743,7 +743,7 @@ body {
   overflow: auto;
   word-wrap: normal;
 }
-.markdown-section pre > code {
+.markdown-section pre> code {
   color: #525252;
   font-size: 0.8rem;
   padding: 2.2em 5px;
@@ -757,10 +757,10 @@ body {
   padding: 1.7rem 1.4rem;
   border: 1px dotted #ccc;
 }
-.markdown-section output > :first-child {
+.markdown-section output> :first-child {
   margin-top: 0;
 }
-.markdown-section output > :last-child {
+.markdown-section output> :last-child {
   margin-bottom: 0;
 }
 .markdown-section code::after,
