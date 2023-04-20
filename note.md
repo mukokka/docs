@@ -17,6 +17,8 @@
 - [NAVER韩韩辞典](https://ko.dict.naver.com/#/main)
 - [weibo to rss](https://rssfeed.today/weibo/)
 - [菜谱生成](https://cook.yunyoujun.cn/)
+- [Checker Plus for Gmail扩展程序](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)
+- [Gmail 的 Mailtrack 和邮件合并扩展程序](https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb/related)
 
 ### 网址
 

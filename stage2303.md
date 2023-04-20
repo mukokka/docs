@@ -1,5 +1,7 @@
 ## 2023.04
 
+- [211017 SOMEDAY CANTABILE 김재환 'Zzz' (4k)](https://www.youtube.com/watch?v=u3-KLTNdtHc)
+
 - [FIFTY FIFTY - Cupid (舞蹈版)(4K)](https://www.bilibili.com/video/BV1mY4y1X7S2) 
 
 - [180607 M!Countdown Triple Position - Kangaroo(袋鼠) 1080P](https://www.bilibili.com/video/BV1kW411A73Q) 又在看袋鼠，之前看碗goS3的时候有点惊讶大家这么早就在为解散做准备，袋鼠这首欢快的歌好像格格不入。不过我很喜欢，既然分别无法推迟或避免，那么就创造更多幸福的回忆吧。<!-- 4.8 -->
