@@ -1,6 +1,37 @@
+## 2023.05
+
+<details><summary>🦊一佩克斯回归特辑🦊（四五月合在一起.ver）</summary>
+
+- [【EPEX】230419 琴洞弦KEUM 金贤佑BAEKSEUNG tiktok](https://www.bilibili.com/video/BV1BT411p7pd) 佩国第二抖出现了（不可撼动的第一还是I dont think that i like her那条
+
+- [[릴레이댄스] EPEX(이펙스) - 여우가 시집가는 날 (4K)](https://www.youtube.com/watch?v=k57Sun8LZc4) 正是对2160p60的视频感到新奇的年纪（指我
+
+- [[Performance37] EPEX(이펙스) '안녕, 나의 첫사랑' (4K)](https://www.youtube.com/watch?v=E8NVCMyEVQ8)
+</details>
+
 ## 2023.04
 
-- [211017 SOMEDAY CANTABILE 김재환 'Zzz' (4k)](https://www.youtube.com/watch?v=u3-KLTNdtHc)
+- [221210 B.I 비아이 - 다음 생(Re-Birth) | B.I 2022 NIGHT SHOW CONCERT 비아이 직캠](https://www.youtube.com/watch?v=cxyHZq-hHOk) 다음 생에 만났을때 나 음치가 아니였을면 좋겠어
+
+- [金韩彬：COSMOS可以说是为了合唱写的歌（线下合唱真的好棒啊）](https://www.bilibili.com/video/BV1Ur4y1b7XE) 看了会幸福的BI和ID合唱COSMOS
+
+- [【中字】看了会幸福的微醺live big naughty和10cm合唱beyond love](https://www.bilibili.com/video/BV1mm4y1B7Qt) 非常好嗑的氛围..
+
+<details><summary>请看，很难不嗑吧..</summary>
+
+![](stage/IMG_1249.PNG ':size=100%')
+</details>
+
+- [김재환 달별콘 봄바람+나야나+NEVER ( 230129 🌙✨)](https://www.youtube.com/watch?v=TOmS3GujUaw) 关于此视频有段非常好笑的聊天记录：
+
+<details><summary>点击展开</summary>
+
+![](stage/IMG_1571.PNG ':size=30%')
+</details>
+
+- [230115 달별콘 김재환 '달팽이 (feat. WIN:D)' (4k)](https://www.youtube.com/watch?v=v0z8wodsZtk) 如果有朋友好奇摘耳返之后说的话可以参考以下这段翻译：呼，（音）为什么（拖得）这么长，应该跟着吉他的声音一起结束呀
+
+- [211017 SOMEDAY CANTABILE 김재환 'Zzz' (4k)](https://www.youtube.com/watch?v=u3-KLTNdtHc) ❣️
 
 - [FIFTY FIFTY - Cupid (舞蹈版)(4K)](https://www.bilibili.com/video/BV1mY4y1X7S2) 
 
@@ -18,20 +49,4 @@
 
 ## peak time
 
-### 初舞台<!-- {docsify-ignore} -->
-
-初舞台喜欢的有点多……推荐看到这里的朋友看[正片](https://www.bilibili.com/video/BV1qM411n7AW)
-
-### 1R<!-- {docsify-ignore} -->
-
-- [[독점공개] #팀14시 | 1R 라이벌매치 | 풀버전 | 싸이 (PSY) - I LUV IT | PiCK TIME in PEAK TIME | 피크타임](https://www.youtube.com/watch?v=wsPONX_QnTo) 
-
-- [[독점공개] #팀18시 | 1R 라이벌매치 | 풀버전 | 온앤오프 (ONF) - Beautiful Beautiful | PiCK TIME in PEAK TIME | 피크타임](https://www.youtube.com/watch?v=tWBycHUV4aY)
-
-### 2R<!-- {docsify-ignore} -->
-
-- [[독점공개] B 연합_댄스 유닛 | 2R 연합매치 | 풀버전 | AJR - Bang! | PiCK TIME in PEAK TIME | 피크타임](https://www.youtube.com/watch?v=4yGiw96Eb1Q) 好疯狂的表演🥺
-
-- [[독점공개] C 연합_댄스 유닛 | 2R 연합매치 | 풀버전 | Christopher - Bad | PiCK TIME in PEAK TIME | 피크타임](https://www.youtube.com/watch?v=cl4cl_esnjU)
-
-### 3R<!-- {docsify-ignore} -->
+初舞台几乎都很好看，1R竞演最喜欢的两首是[14的I LUV IT](https://www.youtube.com/watch?v=wsPONX_QnTo)和[18的Beautiful Beautiful](https://www.youtube.com/watch?v=tWBycHUV4aY)，2R最喜欢[舞蹈B组的Bang!](https://www.youtube.com/watch?v=4yGiw96Eb1Q)和[舞蹈C组的Bad](https://www.youtube.com/watch?v=cl4cl_esnjU)，后面看得不是很认真（。
