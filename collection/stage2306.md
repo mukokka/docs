@@ -54,5 +54,7 @@
 
 ## 音乐节
 
-- Soundberry Festa’ 23 (7.23)
-  - [[4k] 230723 김재환 사운드베리 페스타 full](https://www.youtube.com/watch?v=vNNF-EpDdL4&t=2191s)
+<details><summary>Soundberry Festa’ 23 (7.23)</summary>
+
+- [[4k] 230723 김재환 사운드베리 페스타 full](https://www.youtube.com/watch?v=vNNF-EpDdL4&t=2191s)
+</details>
