@@ -3,6 +3,7 @@
 * [首页](/)
 * [备忘录](note)
 * 收藏夹
-  * [README](stage)
-  * [2303-](stage2303)
-  * [before](fancam)
+  * [README](collection/stage)
+  * [2306-](collection/stage2306)
+  * [2303-2305](collection/stage2303)
+  * [직캠](collection/fancam)
