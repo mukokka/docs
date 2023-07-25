@@ -52,9 +52,10 @@
 - EPEX FANCON (6.10 & 6.11)
 - RBW CON (7.16)
 
-## 音乐节
+## FESTA
 
 <details><summary>Soundberry Festa’ 23 (7.23)</summary>
 
 - [[4k] 230723 김재환 사운드베리 페스타 full](https://www.youtube.com/watch?v=vNNF-EpDdL4&t=2191s)
+- [김재환 사운드베리 페스타 세로캠 Full 230723. 2160p](https://www.youtube.com/watch?v=YZzWzyBybLQ)
 </details>
