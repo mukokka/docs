@@ -44,6 +44,30 @@
 - [[안방1열 풀캠4K] 산다라박 'FESTIVAL' (Sandara Park FullCam)│@SBS Inkigayo 230723](https://www.youtube.com/watch?v=ehP9ahFb9W0)
 </details>
 
+懒得找了还是拉个表吧：
+
+|在看|日期|打歌|mini fm|合录蹭到了|生放|
+|----|----|----|----|----|----|
+|金在奂|0705|冠军秀||||
+||0708|音中|Ｏ|||
+||0715|音中||||
+||0722|音中||||
+|WEi|0712|冠军秀|||
+|未来少年|0722|音中|Ｏ||
+||0723|人歌||ICHILLIN' zb1 dara||
+||0726|冠军秀|一日饭经|ICHILLIN'||
+||0801|theshow||ILY:1||
+||0807|阿里郎||||
+|STAYC|0820|人歌||||
+||0824|mcd||||
+||0826|音中|Ｏ|||
+||0827|人歌|||Ｏ (only)|
+||0829|theshow||||
+||0830|冠军秀||||
+||0902|音中|Ｏ|||
+|DKB|0821|阿里郎||||
+||0829|theshow|Ｏ|TIOT||
+|SEVENUS|0821|阿里郎||XEED|Ｏ|
 
 ## 演唱会篇
 
@@ -51,6 +75,10 @@
 
 - EPEX FANCON (6.10 & 6.11)
 - RBW CON (7.16)
+- PEPSI CON （8.5）
+- HDA（8.10）
+- DKB FANCON（8.12）
+- CIX FM（8.19 & 8.20）
 
 ## FESTA
 
@@ -59,3 +87,4 @@
 - [[4k] 230723 김재환 사운드베리 페스타 full](https://www.youtube.com/watch?v=vNNF-EpDdL4&t=2191s)
 - [김재환 사운드베리 페스타 세로캠 Full 230723. 2160p](https://www.youtube.com/watch?v=YZzWzyBybLQ)
 </details>
+
