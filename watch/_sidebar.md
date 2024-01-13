@@ -1,5 +1,6 @@
 
 * [看板](watch/nav)
+* [2024](watch/2024list)
 * 2023
   * [归档](watch/2023/2023list)
   * [剧透](watch/2023/2023spoil)
