@@ -24,4 +24,4 @@
 
 - [不明白播客](https://www.bumingbai.net/)
 - [SMS@MAN](https://sms-man.com/cn)
-- [猫熊域名发布](https://maoxiong.pages.dev/)
+- [猫熊域名发布页](https://maoxiong.pages.dev/)
